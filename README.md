@@ -13,9 +13,7 @@ Website gồm 3 trang:
 *(Bonus: `shop.html` — trang danh sách toàn bộ sản phẩm, có tìm kiếm/lọc theo danh mục.)*
 
 ## Link xem bản thiết kế Figma (quyền Viewer)
-https://www.figma.com/design/SNkvgZelI0BiGC4JVsSlpE/Wireframe-Mobile---ACE-SMASH?node-id=15-2&p=f&t=65kpfUoKMcq9d5Q8-0
-
-> ⚠️ Nhớ vào Figma → Share → đổi quyền truy cập thành **"Anyone with the link can view"** trước khi nộp bài.
+[https://www.figma.com/design/SNkvgZelI0BiGC4JVsSlpE/Wireframe-Mobile---ACE-SMASH?node-id=15-2&p=f&t=65kpfUoKMcq9d5Q8-0](https://www.figma.com/design/SNkvgZelI0BiGC4JVsSlpE/Wireframe-Mobile---ACE-SMASH?node-id=10-2&t=sjeJkrwq3DTQkCFz-1)
 
 ## Link Live Demo
 (https://viengnakhonesengaloun-spec.github.io/ace-smash-webdev/)
