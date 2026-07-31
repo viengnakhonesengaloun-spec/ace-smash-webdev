@@ -1,7 +1,7 @@
 # ACE SMASH — WebDev Mid-term Project
 
 ## Tên sinh viên, MSSV
-- **Tên sinh viên:** Viengnakhone Saeng a loun
+- **Tên sinh viên:** Viengnakhone Saengaloun
 - **MSSV:** _(2400009320)_
 
 ## Mô tả ngắn gọn về chủ đề website
