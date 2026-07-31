@@ -1345,3 +1345,46 @@ nav{
     margin:auto;
 
 }
+/* ===========================
+   PORTFOLIO AVATAR (added for index.html)
+=========================== */
+
+.avatar-circle{
+
+    width:340px;
+
+    max-width:100%;
+
+    aspect-ratio:1;
+
+    margin-left:auto;
+
+    border-radius:50%;
+
+    background:#EAF3DE;
+
+    border:6px solid #2E6F1C;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:96px;
+
+    font-weight:700;
+
+    color:#2E6F1C;
+
+}
+
+@media (max-width:900px){
+
+    .avatar-circle{
+
+        margin:0 auto;
+
+    }
+
+}
