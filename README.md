@@ -18,7 +18,7 @@ https://www.figma.com/design/SNkvgZelI0BiGC4JVsSlpE/Wireframe-Mobile---ACE-SMASH
 > ⚠️ Nhớ vào Figma → Share → đổi quyền truy cập thành **"Anyone with the link can view"** trước khi nộp bài.
 
 ## Link Live Demo
-_(điền link sau khi deploy — khuyến khích dùng GitHub Pages, Vercel, hoặc Netlify)_
+(https://viengnakhonesengaloun-spec.github.io/ace-smash-webdev/)
 
 ## Tính năng
 - Responsive trên Desktop và Mobile (hamburger menu)
